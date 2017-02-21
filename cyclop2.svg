@@ -1,0 +1,17 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>Layer 1</title>
+ </g>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <ellipse ry="111.5" rx="110.000003" id="svg_2" cy="199" cx="278.500002" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#7fff00"/>
+  <ellipse ry="34.5" rx="32.5" id="svg_3" cy="161" cx="246" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#845335"/>
+  <ellipse ry="16.984615" rx="16" id="svg_4" cy="161.515388" cx="262.500001" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#DDDDDD"/>
+  <ellipse ry="34.5" rx="32.5" id="svg_8" cy="162" cx="319" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#845335"/>
+  <path d="m204.5,232.5c1,-1.157898 4.729614,-8.370239 9,-13.894714c4.715851,-6.100769 11,-10.421051 16,-15.052643c5,-4.631592 9.310013,-7.338165 12,-9.263153c2.406006,-1.721802 6.038742,-2.917236 9,-3.473694c6.242889,-1.173035 11,-2.315796 19,-2.315796c9,0 18,0 28,0c7,0 14.712006,3.452423 20,4.631592c2.945862,0.656891 4,1.157898 5,1.157898c2,0 4,0 7,0c4,0 10.160492,-0.438293 16,1.157898c6.528748,1.784576 9,5.789459 11,8.105255c1,1.157898 2,2.315796 2,3.473694c0,1.157898 -0.38269,2.403931 0,3.473663c0.541199,1.512878 1,2.315796 1,4.631592l0,3.473694l0,1.157898" id="svg_7" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#849854"/>
+  <ellipse ry="16.984615" rx="16" id="svg_9" cy="162.515388" cx="304.500001" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#DDDDDD"/>
+  <path d="m223.5,244.5c0,1 0,3 0,4c0,1 0,2 2,4c2,2 4,5 6,8c2,3 4.186005,5.692535 6,7c1.147263,0.826904 2.852737,3.173096 4,4c1.813995,1.307465 5,4 7,4c3,0 9.067657,0.029083 16,1c7.209747,1.009766 14,2 19,2c6,0 10,0 11,0c3,0 4.585785,1.414215 6,0c0.707092,-0.707092 2,-2 4,-3c2,-1 3.852722,-2.173096 5,-3c1.813995,-1.307465 4.186005,-3.692535 6,-5c4.589081,-3.307617 6,-6 9,-8c3,-2 3,-3 4,-5l0,-1l2,-1" id="svg_10" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#97944B"/>
+ </g>
+</svg>
